@@ -1,13 +1,4 @@
----
-title: Tomato Plant Disease Detection & AI Advisory System
-emoji: 🍅
-colorFrom: green
-colorTo: red
-sdk: gradio
-python_version: "3.10"
-app_file: new_app.py
-pinned: false
----
+
 
 # 🍅 Tomato Plant Disease Detection & AI Advisory System
 
@@ -49,4 +40,5 @@ Built using PyTorch and Gradio.
 ### How to run locally:
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the app: `python new_app.py`
+
 
