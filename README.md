@@ -28,6 +28,7 @@ This project is a deep learning–based system for detecting tomato plant diseas
 
 ## 📦 Deployment
 This app is deployed using **Hugging Face Spaces** with Gradio.
+Link : https://huggingface.co/spaces/r20ud00/tpd
 
 ---
 
@@ -40,5 +41,6 @@ Built using PyTorch and Gradio.
 ### How to run locally:
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the app: `python new_app.py`
+
 
 
